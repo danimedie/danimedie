@@ -1,23 +1,64 @@
-Hi there! 👋 I'm Dani
+# Hi there! 👋 I'm Dani
 
-Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here's a bit more about me:
-👀 Interests
+Welcome to my GitHub profile! 🚀 I'm a passionate developer exploring the world of coding and constantly learning new technologies. Here’s a bit more about me:
 
-I’m deeply interested in web development, especially working with modern frameworks and libraries. I enjoy exploring new tools and techniques to build efficient, scalable, and creative solutions.
-🌱 Currently Learning
+---
 
-I’m diving into Vue and Next.js, sharpening my skills in frontend development while keeping up with the latest trends in the tech world.
-💞️ Collaboration
+## 🛠️ **Technologies & Tools**
 
-I’m open to collaborating on exciting projects related to web development, UI/UX design, or anything that challenges me to grow as a developer. Feel free to reach out if you have an idea or project in mind!
-📫 How to Reach Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-You can contact me via email at danimedie@gmail.com. Whether it’s about collaboration, advice, or just to say hi, I’d love to connect!
-😄 Pronouns
+---
 
-Dani (he/him)
-⚡ Fun Fact
+## 🌱 **Currently Learning**
 
-When I’m not coding, you’ll probably find me exploring new places, playing video games, or geeking out about the latest tech gadgets.
+I’m currently diving deep into **Vue** and **Next.js**, enhancing my skills in modern frontend development frameworks. I’m also exploring advanced JavaScript concepts to build scalable and efficient applications.
 
-Feel free to customize this further based on your preferences! 😊
+---
+
+## 💡 **About Me**
+
+- 👀 I’m interested in web development, UI/UX design, and creating seamless user experiences.
+- 💞️ I’m open to collaborating on exciting projects that push the boundaries of creativity and innovation.
+- ⚡ Fun Fact: When I’m not coding, I love gaming 🎮, exploring new places 🌍, and geeking out about the latest tech gadgets.
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danimedie&show_icons=true&theme=radical" alt="Dani's GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimedie&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 📫 **How to Reach Me**
+
+Feel free to reach out via email: **danimedie@gmail.com**. Let’s connect and create something amazing together!
+
+<p align="center">
+  <a href="mailto:danimedie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🔗 **Connect with Me**
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+### ✨ *Let’s build something awesome together!* ✨
