@@ -31,6 +31,6 @@ Junior web developer who loves modern frontend and clean design.
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="55" height="55" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/danimedie">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5.svg" width="55" height="55" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="55" height="55" alt="LinkedIn" />
   </a>
 </p>
