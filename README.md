@@ -6,21 +6,22 @@ Junior web developer who loves modern frontend and clean design.
 
 ### 🛠 Frontend Tech Stack
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-?style=for-the-badge&logo=vue.js) 
+![React](https://img.shields.io/badge/-?style=for-the-badge&logo=react) 
+![Next.js](https://img.shields.io/badge/-?style=for-the-badge&logo=next.js) 
+![Tailwind CSS](https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css)
 
 ---
 
 ### 🛠 Backend Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FC3F2D?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-?style=for-the-badge&logo=laravel) 
+![CodeIgniter](https://img.shields.io/badge/-?style=for-the-badge&logo=codeigniter)
 
 ---
 
 ### 📫 Get in touch
 
+![Email](https://img.shields.io/badge/-?style=for-the-badge&logo=gmail)  
 [danimedie@gmail.com](mailto:danimedie@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danimedie-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danimedie)
+[![LinkedIn](https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danimedie)
