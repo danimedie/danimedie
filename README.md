@@ -23,11 +23,3 @@ Junior web developer who loves modern frontend and clean design.
 </p>
 
 ---
-
-### 📫 Get in touch
-
-<p align="left">
-  <a href="mailto:danimedie@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="55" height="55" alt="Email" />
-  </a>
-</p>
